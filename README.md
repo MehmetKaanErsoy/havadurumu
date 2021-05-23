@@ -1,2 +1,2 @@
-# havadurumu
+# hava_durumu_projesi
  
